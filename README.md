@@ -36,7 +36,7 @@ To run it, you need:
 ```
 API_ID=
 API_HASH=
-PHONE_NUMBER=
+PHONE_NUMBER= +5554996398155
 ```
 If you don't create this file, you can also provide these 3 values when calling the tool, or even be prompted for them interactively.
 
